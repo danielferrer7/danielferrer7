@@ -21,5 +21,4 @@
 
 
 
-[linkedin]: [[https://linkedin.com/in/joshmadako](https://www.linkedin.com/in/danielferrercy/)r](https://www.linkedin.com/in/danielferrercy/)
-
+[linkedin]: [https://www.linkedin.com/in/danielferrercy/]

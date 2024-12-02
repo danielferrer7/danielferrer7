@@ -27,6 +27,9 @@
 ](https://github.com/danielferrer7/Work-Order-and-Incident-Tracking-System)
 
 - HTML
+- Flask
+- Bootstrap
+- SQLAlchemy
 - SQLite
 - Python
 </b>

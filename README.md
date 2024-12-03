@@ -23,7 +23,7 @@
 </b>
 </b>
 
-[Work Order and Incident Tracking System
+💻 [Work Order and Incident Tracking System
 ](https://github.com/danielferrer7/Work-Order-and-Incident-Tracking-System)
 
 - HTML
@@ -35,7 +35,7 @@
 </b>
 </b>
 
-[CCTV and Security Monitoring System Simulation](https://github.com/danielferrer7/CCTV-and-Security-Monitoring-System-Simulation/blob/main/README.md)    
+📷 [CCTV and Security Monitoring System Simulation](https://github.com/danielferrer7/CCTV-and-Security-Monitoring-System-Simulation/blob/main/README.md)    
 
 
 - Python

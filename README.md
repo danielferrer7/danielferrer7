@@ -34,3 +34,28 @@
 - Python
 </b>
 </b>
+
+CCTV and Security Monitoring System Simulation    https://github.com/danielferrer7/CCTV-and-Security-Monitoring-System-Simulation/blob/main/README.md
+Python:
+The core programming language used to build the motion detection logic and integrate the web interface.
+
+OpenCV:
+A computer vision library used for real-time video processing and motion detection.
+
+Flask:
+A lightweight Python web framework used to create the web interface for displaying motion logs.
+
+Bootstrap:
+A front-end framework used to design a responsive and modern user interface for the web application.
+
+HTML/CSS:
+Used to structure and style the web pages, enhancing the UI with gradients, animations, and layouts.
+
+SQLite (indirectly via file storage):
+Text file storage (motion_log.txt) was utilized instead of a database for simplicity, simulating event logging.
+
+time module:
+Used to timestamp motion events, providing accurate logs of when activity was detected.
+
+VS Code or any IDE/Text Editor:
+A tool for writing and organizing the Python code and HTML templates.
